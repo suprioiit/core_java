@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08226606-1a82-4a83-be71-bd1914665a01" name="Changes" comment="fundamental_java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/ExceptionOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/OrderNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/TryCatchFinallyReturnFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBootRestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentals/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentals/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentals/StringObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/GooglePay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Payments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Paytm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/PhonePay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentals/StringObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentals/StringObjects.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728122657492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fundamental_java">
+      <created>1728144864831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144864831</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
