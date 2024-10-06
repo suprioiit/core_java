@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08226606-1a82-4a83-be71-bd1914665a01" name="Changes" comment="fundamental_java">
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentals/StringObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentals/StringObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/CoustmeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentals/TestImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/immutable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marker/DaoFrameWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marker/Deletable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marker/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +63,7 @@
       <recent name="oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringBootRestApplication">
+  <component name="RunManager" selected="Diffblue Cover.Write tests for class Employee">
     <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exception.DataReader" />
       <module name="core_java" />
@@ -75,8 +84,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Write tests for class Employee" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="core_java" />
+      <settings run-config-name="Write tests for class Employee" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="immutable.Employee" />
+      </settings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Diffblue Cover.Write tests for class Employee" />
         <item itemvalue="Application.SpringBootRestApplication" />
         <item itemvalue="Application.DataReader" />
       </list>
@@ -126,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728144864831</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fundamental_java">
+      <created>1728191340645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728191340646</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
